@@ -18,7 +18,7 @@ load_dotenv()
 st.title("RAG Application built on Gemini Model for Social Studies 10th standard")
 
 api_key= os.environ.get('GEMINI_API_KEY')
-model_name = os.environ.get('MODEL_GEMINI_1.5')
+model_name = os.environ.get('MODEL_GEMINI')
 
 genai.configure(api_key=api_key)
 
