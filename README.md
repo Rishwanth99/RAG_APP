@@ -1,4 +1,4 @@
-# RAG Application for Social Studies 10th Standard
+# AI-Powered RAG Question Answering Application
 
 This project is a Retrieval-Augmented Generation (RAG) application that uses a Large Language Model (LLM) to answer questions about the Social Studies curriculum for 10th standard students. The application is built using Python, Streamlit, LangChain, and Google's Gemini Pro.
 
